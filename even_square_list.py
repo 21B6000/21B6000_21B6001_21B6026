@@ -1,5 +1,4 @@
-# list = [1, 2, 3, 4, 5, 6]
-list = [22, 27,90]
+list = [1, 2, 3, 4, 5, 6]
 
 def even_square_list(list):
     number = []
